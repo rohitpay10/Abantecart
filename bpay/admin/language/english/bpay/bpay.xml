@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<definitions>
+  <definition>
+    <key>pay10_name</key>
+    <value><![CDATA[Pay10]]></value>
+  </definition>
+  <definition>
+    <key>text_payment</key>
+    <value><![CDATA[Payment]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Settings has been updated!]]></value>
+  </definition>  
+  <definition>
+    <key>pay10_test_live</key>
+    <value><![CDATA[Production]]></value>
+  </definition>
+  <definition>
+    <key>pay10_test_test</key>
+    <value><![CDATA[Test]]></value>
+  </definition>  
+  <definition>
+    <key>pay10_callback</key>
+    <value><![CDATA[Callback Mode:]]></value>
+  </definition>
+  <definition>
+    <key>pay10_callback_enable</key>
+    <value><![CDATA[Enable]]></value>
+  </definition>
+  <definition>
+    <key>pay10_callback_disable</key>
+    <value><![CDATA[Disable]]></value>
+  </definition>
+  <definition>
+    <key>pay10_merchant_key</key>
+    <value><![CDATA[Merchant SALT:]]></value>
+  </definition>
+  <definition>
+    <key>pay10_merchant_hosted_key</key>
+    <value><![CDATA[Merchant HOSTED KEY:]]></value>
+  </definition>
+  <definition>
+    <key>pay10_merchant_industry</key>
+    <value><![CDATA[Industry Type:]]></value>
+  </definition>  
+  <definition>
+    <key>pay10_merchant_mid</key>
+    <value><![CDATA[Merchant PAY ID:]]></value>
+  </definition>
+  <definition>
+    <key>pay10_merchant_website</key>
+    <value><![CDATA[Website:]]></value>
+  </definition>
+
+  <definition>
+    <key>pay10_merchant_transaction_url</key>
+    <value><![CDATA[Transaction Request URL:]]></value>
+  </definition>
+  <definition>
+    <key>pay10_merchant_transaction_status_url</key>
+    <value><![CDATA[Transaction Response URL:]]></value>
+  </definition>
+  <definition>
+    <key>pay10_test</key>
+    <value><![CDATA[pay10 Environment:]]></value>
+  </definition>
+  <definition>
+    <key>pay10_order_status_id</key>
+    <value><![CDATA[Order Status:]]></value>
+  </definition>
+  <definition>
+    <key>pay10_location_id</key>
+    <value><![CDATA[Location:]]></value>
+  </definition>
+  <definition>
+    <key>pay10_location_id_0</key>
+    <value><![CDATA[All Locations]]></value>
+  </definition>
+  <definition>
+    <key>pay10_status</key>
+    <value><![CDATA[Status:]]></value>
+  </definition>
+  <definition>
+    <key>pay10_sort_order</key>
+    <value><![CDATA[Sort Order:<br /><span class="help">Number indicates display position of bpay payment gateway</span>]]></value>
+  </definition>
+    <definition>
+      <key>pay10_autoselect</key>
+      <value><![CDATA[Auto Select:<br /><span class="help">This payment method will be selected automatically</span>]]></value>
+    </definition> 
+  <definition>
+    <key>error_permission</key>
+    <value><![CDATA[Warning: You do not have permission to modify bpay payment!]]></value>
+  </definition>
+  <definition>
+    <key>error_merchant</key>
+    <value><![CDATA[Merchant id Required!]]></value>
+  </definition>
+</definitions>
